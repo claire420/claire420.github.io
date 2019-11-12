@@ -9,7 +9,8 @@ name: claire420
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/claire420/claire420.github.io/blob/master/images/jekyll-logo.jpeg
+avatar: https://raw.githubusercontent.com/claire420/claire420.github.io/master/images/jekyll-logo.png
+
 #
 # Flags below are optional
 #
